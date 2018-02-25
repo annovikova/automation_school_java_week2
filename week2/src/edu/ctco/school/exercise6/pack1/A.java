@@ -1,6 +1,6 @@
 package edu.ctco.school.exercise6.pack1;
 
-class A
+public class A // Changed from package protected to public
 {
     public A()
     {

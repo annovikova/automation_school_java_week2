@@ -1,4 +1,4 @@
 package edu.ctco.school.exercise4.pack1;
 
-class A {
+public class A { // Added public
 }

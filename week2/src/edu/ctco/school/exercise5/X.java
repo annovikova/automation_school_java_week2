@@ -2,9 +2,9 @@ package edu.ctco.school.exercise5;
 
 class X
 {
-    protected int i = 1221;
+    private int i = 1221; // Changed from protected to private
 
-    private void methodOfX()
+     void methodOfX() // Removed private
     {
         System.out.println(i);
     }

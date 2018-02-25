@@ -1,9 +1,11 @@
 package edu.ctco.school.exercise6.pack2;
 
+import edu.ctco.school.exercise6.pack1.A;
+
 /**
- * Why we can't instantiate class A, even it has public constructor ?
+ * Why we can't instantiate class A, even it has public constructor ? // Class A not public
  *
- * How to fix it ?
+ * How to fix it ? // Make class A as public or move to the pack1
  */
 class B
 {

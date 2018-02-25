@@ -7,6 +7,6 @@ public class MainClass
 {
     public static void main(String[] args)
     {
-        SubExercise3 subExercise3 = new SubExercise3();
+        Exercise3.SubExercise3 subExercise3 = new Exercise3.SubExercise3(); // Was SubExercise3 subExercise3 = new SubExercise3();
     }
 }

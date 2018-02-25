@@ -7,7 +7,7 @@ package edu.ctco.school.exercise3;
  */
 class Exercise3
 {
-    class SubExercise3
+    static class SubExercise3 // Added static
     {
         //inner class
     }
